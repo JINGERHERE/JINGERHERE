@@ -24,7 +24,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Runs a single command using the runners shell
+    # Current year calendar
     - name: Current year calendar
       uses: lowlighter/metrics@latest
       with:
@@ -32,7 +32,8 @@ jobs:
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_calendar: yes
-
+    
+    # Most used languages
     - name: Most used languages
       uses: lowlighter/metrics@latest
       with:
@@ -43,6 +44,16 @@ jobs:
         plugin_languages_limit: 8
         plugin_languages_details: percentage
         plugin_languages_indepth: no
+        plugin_languages_ignored: Jupyter Notebook, HTML
+    
+    # Classic template
+    - name: Classic template
+      uses: lowlighter/metrics@latest
+      with:
+        filename: assets/classic/metrics.classic.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: header, repositories
+        plugin_lines: yes
 
   # ===== ===== ===== ===== =====
   # WakaTime Stats
@@ -57,8 +68,23 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # I'm a Night 🦉
           SHOW_COMMIT: "True"
+          # 📅 I'm Most Productive on ...
           SHOW_DAYS_OF_WEEK: "True"
+          # 📊 This Week I Spent My Time On
+          SHOW_TIMEZONE: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_UPDATED_DATE: "False"
 
   # ===== ===== ===== ===== =====
   # Generate snake animation

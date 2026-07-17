@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- metrics: Most used languages | Calendar -->
-<img src="./assets/languages/metrics.plugin.languages.svg" width="49%" align="top"/> <img src="./assets/calendar/metrics.plugin.calendar.svg" width="49%" align="top"/>
+<img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
@@ -93,6 +92,9 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 17/07/2026 15:44:38 UTC
 <!--END_SECTION:waka-->
+
+<!-- metrics: Most used languages -->
+<img src="./assets/languages/metrics.plugin.languages.svg" width="99%" align="top"/>
 
 <!-- Snake animation -->
 <picture>
