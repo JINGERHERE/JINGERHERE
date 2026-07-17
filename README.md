@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Calendar](./metrics.plugin.calendar.svg)
+![Calendar](./assets/calendar/metrics.plugin.calendar.svg)
+
+![Languages](./assets/languages/metrics.plugin.languages.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JINGERHERE/JINGERHERE/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JINGERHERE/JINGERHERE/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JINGERHERE/JINGERHERE/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="./assets/snake/github-contribution-grid-snake.svg">
 </picture>
