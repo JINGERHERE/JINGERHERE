@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- metrics: Most used languages | Calendar -->
-<img src="./assets/languages/metrics.plugin.languages.svg" width="49%" /> <img src="./assets/calendar/metrics.plugin.calendar.svg" width="49%" />
+<img src="./assets/languages/metrics.plugin.languages.svg" width="49%" align="top"/> <img src="./assets/calendar/metrics.plugin.calendar.svg" width="49%" align="top"/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- Snake animation -->
 <picture>
