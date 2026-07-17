@@ -43,6 +43,7 @@ jobs:
         plugin_languages_limit: 8
         plugin_languages_details: percentage, lines
         plugin_languages_indepth: yes
+        commits_authoring: JINGERHERE, 111586567+JINGERHERE@users.noreply.github.com
 
   # ===== ===== ===== ===== =====
   # Generate snake animation

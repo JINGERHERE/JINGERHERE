@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Calendar](./assets/calendar/metrics.plugin.calendar.svg)
+<!-- metrics: Most used languages | Calendar -->
+<img src="./assets/languages/metrics.plugin.languages.svg" width="49%" /> <img src="./assets/calendar/metrics.plugin.calendar.svg" width="49%" />
 
-![Languages](./assets/languages/metrics.plugin.languages.svg)
-
+<!-- Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/snake/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/snake/github-contribution-grid-snake.svg">
