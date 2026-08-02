@@ -19,10 +19,42 @@ jobs:
   # This workflow contains some jobs
   
   # ===== ===== ===== ===== =====
+  # Generate snake animation
+  # ===== ===== ===== ===== =====
+  snake_calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Generate snake SVG
+      uses: Platane/snk/svg-only@v3
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        outputs: |
+          dist/assets/snake/github-contribution-grid-snake.svg
+          dist/assets/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+    - name: Push to main branch
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        mkdir -p assets/snake
+        cp -r dist/assets/snake/. assets/snake/
+        git add assets/snake/
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update snake animation"
+        git push
+
+  # ===== ===== ===== ===== =====
   # Generate Metrics
   # ===== ===== ===== ===== =====
   metrics:
     runs-on: ubuntu-latest
+    needs: snake_calendar
     permissions:
       contents: write
 
@@ -92,35 +124,3 @@ jobs:
           SHOW_LOC_CHART: "False" # Timeline chart
           # Last updated on ...
           SHOW_UPDATED_DATE: "True"
-
-  # ===== ===== ===== ===== =====
-  # Generate snake animation
-  # ===== ===== ===== ===== =====
-  snake_calendar:
-    runs-on: ubuntu-latest
-    needs: waka-stats
-    permissions:
-      contents: write
-    timeout-minutes: 5
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-    - uses: actions/checkout@v4
-
-    - name: Generate snake SVG
-      uses: Platane/snk/svg-only@v3
-      with:
-        github_user_name: ${{ github.repository_owner }}
-        outputs: |
-          dist/assets/snake/github-contribution-grid-snake.svg
-          dist/assets/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-    - name: Push to main branch
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        mkdir -p assets/snake
-        cp -r dist/assets/snake/. assets/snake/
-        git add assets/snake/
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update snake animation"
-        git push
