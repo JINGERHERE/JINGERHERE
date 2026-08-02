@@ -10,6 +10,10 @@ on:
     # UTC
     - cron: '15 10 * * *'
 
+concurrency:
+  group: profile-readme-update-${{ github.repository }}
+  cancel-in-progress: false
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains some jobs
@@ -60,6 +64,7 @@ jobs:
   # ===== ===== ===== ===== =====
   waka-stats:
     name: Update this repo's README.md
+    needs: metrics
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -93,6 +98,7 @@ jobs:
   # ===== ===== ===== ===== =====
   snake_calendar:
     runs-on: ubuntu-latest
+    needs: waka-stats
     permissions:
       contents: write
     timeout-minutes: 5
