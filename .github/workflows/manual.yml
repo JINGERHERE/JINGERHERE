@@ -59,11 +59,11 @@ jobs:
   # WakaTime Stats
   # ===== ===== ===== ===== =====
   waka-stats:
+    name: Update this repo's README.md
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
