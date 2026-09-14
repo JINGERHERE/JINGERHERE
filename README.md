@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.52%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,27 +51,27 @@ Sunday                   152 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 50 mins       ██████████████████░░░░░░░   70.76 % 
-C                        1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-YAML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+C++                      9 hrs 19 mins       ██████████████████░░░░░░░   71.31 % 
+C                        1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+YAML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 22 mins      █████████████████████████   98.97 % 
-Codex Vscode             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+VS Code                  12 hrs 57 mins      █████████████████████████   99.02 % 
+Codex Vscode             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Mac                      12 hrs 15 mins      █████████████████████████   98.10 % 
-Windows                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Mac                      12 hrs 50 mins      █████████████████████████   98.19 % 
+Windows                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 14 mins (33.9%)
+⏱ AI Coding Time: 4 hrs 14 mins (32.38%)
 
-✍️ 770 lines written by AI, 1,051 lines written by hand (42.28% AI-written)
+✍️ 770 lines written by AI, 1,073 lines written by hand (41.78% AI-written)
 
 🔤 2,388,727 Input Tokens, 427,279 Output Tokens
 
@@ -86,14 +86,14 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 42.28% of written lines came from AI
+⚖️ Balanced with AI — 41.78% of written lines came from AI
 📚 Verbose Prompter — average 2,089 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 60.38% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 61.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 14:23:12 UTC
+ Last Updated on 14/09/2026 16:25:03 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
