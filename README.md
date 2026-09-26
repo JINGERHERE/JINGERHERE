@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2055%20mins-blue?style=flat)
 
@@ -28,20 +28,20 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-🌆 Daytime                352 commits         ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-🌃 Evening                582 commits         ████████████░░░░░░░░░░░░░   49.57 % 
-🌙 Night                  180 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+🌆 Daytime                353 commits         ████████░░░░░░░░░░░░░░░░░   30.04 % 
+🌃 Evening                582 commits         ████████████░░░░░░░░░░░░░   49.53 % 
+🌙 Night                  180 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   170 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Wednesday                126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Thursday                 196 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Friday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Saturday                 160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Sunday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Monday                   170 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Wednesday                126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Thursday                 196 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Friday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Saturday                 161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Sunday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 ```
 
 
@@ -51,27 +51,27 @@ Sunday                   153 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      47 hrs 55 mins      ███████████████████████░░   90.17 % 
-C                        4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Markdown                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Objective-C              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+C++                      42 hrs 56 mins      ██████████████████████░░░   89.36 % 
+C                        4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Markdown                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Objective-C              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Pawn                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  53 hrs 8 mins       █████████████████████████   99.99 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  48 hrs 2 mins       █████████████████████████   99.98 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      52 hrs 45 mins      █████████████████████████   99.26 % 
-Windows                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Mac                      47 hrs 56 mins      █████████████████████████   99.77 % 
+Windows                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (0.39%)
+⏱ AI Coding Time: 12 mins (0.43%)
 
-✍️ 0 lines written by AI, 4,296 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,050 lines written by hand (0.0% AI-written)
 
 🔤 14,546,310 Input Tokens, 1,731,936 Output Tokens
 
@@ -89,7 +89,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/09/2026 15:17:40 UTC
+ Last Updated on 26/09/2026 14:30:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
