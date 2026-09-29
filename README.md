@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2055%20mins-blue?style=flat)
 
@@ -28,20 +28,20 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-🌆 Daytime                355 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
-🌃 Evening                583 commits         ████████████░░░░░░░░░░░░░   49.45 % 
-🌙 Night                  180 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+🌆 Daytime                355 commits         ████████░░░░░░░░░░░░░░░░░   30.08 % 
+🌃 Evening                584 commits         ████████████░░░░░░░░░░░░░   49.49 % 
+🌙 Night                  180 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Wednesday                126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Thursday                 196 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Friday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Saturday                 161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Sunday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Monday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Wednesday                126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Thursday                 196 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Friday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Saturday                 161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Sunday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 ```
 
 
@@ -51,18 +51,18 @@ Sunday                   154 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      37 hrs 7 mins       ██████████████████████░░░   86.36 % 
-C                        4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Objective-C              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Pawn                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+C++                      33 hrs 9 mins       ██████████████████████░░░   86.52 % 
+C                        3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Pawn                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Objective-C              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  42 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  38 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      42 hrs 52 mins      █████████████████████████   99.73 % 
-Windows                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Mac                      38 hrs 5 mins       █████████████████████████   99.41 % 
+Windows                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,7 +72,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/09/2026 18:13:12 UTC
+ Last Updated on 29/09/2026 16:33:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
