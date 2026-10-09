@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,45 +51,45 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      18 hrs 31 mins      ██████████████████░░░░░░░   70.41 % 
-C                        6 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C++                      17 hrs 44 mins      █████████████████░░░░░░░░   69.18 % 
+C                        6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Pawn                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 33 mins      ████████████████████████░   97.17 % 
-Claude Code              44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+VS Code                  24 hrs 51 mins      ████████████████████████░   96.87 % 
+Claude Code              48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 💻 Operating System: 
-Mac                      26 hrs 15 mins      █████████████████████████   99.84 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Mac                      25 hrs 36 mins      █████████████████████████   99.83 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (18.98%)
+⏱ AI Coding Time: 5 hrs 20 mins (20.82%)
 
-✍️ 309 lines written by AI, 2,361 lines written by hand (11.57% AI-written)
+✍️ 330 lines written by AI, 2,230 lines written by hand (12.89% AI-written)
 
-🔤 1,163,612 Input Tokens, 980,188 Output Tokens
+🔤 1,296,227 Input Tokens, 1,034,505 Output Tokens
 
-💵 $165.31 Estimated AI Cost This Week
+💵 $175.26 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 39 AI Prompts
+🧠 7 AI Sessions, 45 AI Prompts
 
-Claude-Code              392 lines           █████████████████████████   100.00 % 
+Claude-Code              413 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.57% of written lines came from AI
-📝 Concise Prompter — average 243 characters per prompt
+🧑‍💻 Mostly Hands-On — 12.89% of written lines came from AI
+📄 Detailed Prompter — average 692 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 89.93% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 88.72% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 17:26:48 UTC
+ Last Updated on 09/10/2026 17:02:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
