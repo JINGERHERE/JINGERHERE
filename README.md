@@ -51,45 +51,45 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      13 hrs 22 mins      █████████████████░░░░░░░░   67.42 % 
-CMake                    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-C                        36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+C++                      11 hrs 18 mins      ███████████████░░░░░░░░░░   61.53 % 
+CMake                    2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+C                        34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 41 mins      ████████████████████████░   94.27 % 
-Claude Code              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+VS Code                  17 hrs 24 mins      ████████████████████████░   94.65 % 
+Claude Code              58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 💻 Operating System: 
-Mac                      19 hrs 42 mins      █████████████████████████   99.37 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Mac                      17 hrs 50 mins      ████████████████████████░   97.02 % 
+Windows                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 12 mins (26.28%)
+⏱ AI Coding Time: 4 hrs 53 mins (26.65%)
 
-✍️ 232 lines written by AI, 1,093 lines written by hand (17.51% AI-written)
+✍️ 232 lines written by AI, 718 lines written by hand (24.42% AI-written)
 
-🔤 4,381,592 Input Tokens, 1,573,337 Output Tokens
+🔤 4,365,262 Input Tokens, 1,553,482 Output Tokens
 
-💵 $400.46 Estimated AI Cost This Week
+💵 $399.19 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 68 AI Prompts
+🧠 6 AI Sessions, 63 AI Prompts
 
 Claude-Code              168 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.51% of written lines came from AI
-📚 Verbose Prompter — average 2,726 characters per prompt
+🧑‍💻 Mostly Hands-On — 24.42% of written lines came from AI
+📚 Verbose Prompter — average 2,622 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 88.41% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.79% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 14:52:14 UTC
+ Last Updated on 17/10/2026 13:45:52 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
