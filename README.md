@@ -51,27 +51,27 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 40 mins       ████████████████░░░░░░░░░   64.60 % 
-CMake                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Batchfile                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+C++                      8 hrs 36 mins       ████████████████░░░░░░░░░   64.45 % 
+CMake                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Batchfile                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 42 mins      ████████████████████████░   94.61 % 
-Claude Code              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+VS Code                  12 hrs 38 mins      ████████████████████████░   94.59 % 
+Claude Code              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 💻 Operating System: 
-Mac                      12 hrs 52 mins      ████████████████████████░   95.92 % 
-Windows                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Mac                      12 hrs 49 mins      ████████████████████████░   95.91 % 
+Windows                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 46 mins (20.65%)
+⏱ AI Coding Time: 2 hrs 46 mins (20.74%)
 
-✍️ 56 lines written by AI, 571 lines written by hand (8.93% AI-written)
+✍️ 56 lines written by AI, 568 lines written by hand (8.97% AI-written)
 
 🔤 2,904,066 Input Tokens, 1,191,223 Output Tokens
 
@@ -82,14 +82,14 @@ Windows                  32 mins             █░░░░░░░░░░�
 Claude-Code              68 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.93% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 8.97% of written lines came from AI
 📚 Verbose Prompter — average 3,065 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 94.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.97% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 14:02:17 UTC
+ Last Updated on 19/10/2026 17:02:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
