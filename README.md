@@ -51,45 +51,28 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 36 mins       ████████████████░░░░░░░░░   64.45 % 
-CMake                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Batchfile                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+C++                      5 hrs 15 mins       ███████████████░░░░░░░░░░   58.99 % 
+CMake                    1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Batchfile                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 38 mins      ████████████████████████░   94.59 % 
-Claude Code              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+VS Code                  8 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 49 mins      ████████████████████████░   95.91 % 
-Windows                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Mac                      8 hrs 21 mins       ███████████████████████░░   93.85 % 
+Windows                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 46 mins (20.74%)
-
-✍️ 56 lines written by AI, 568 lines written by hand (8.97% AI-written)
-
-🔤 2,904,066 Input Tokens, 1,191,223 Output Tokens
-
-💵 $192.53 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 19 AI Prompts
-
-Claude-Code              68 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.97% of written lines came from AI
-📚 Verbose Prompter — average 3,065 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 93.97% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 19/10/2026 17:02:09 UTC
+ Last Updated on 20/10/2026 15:05:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
