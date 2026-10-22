@@ -51,18 +51,18 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-CMake                    51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Python                   38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Batchfile                33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+C++                      36 mins             ████████░░░░░░░░░░░░░░░░░   32.31 % 
+Batchfile                30 mins             ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+CMake                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Python                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 3 mins        ██████████████████████░░░   88.11 % 
-Windows                  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Mac                      1 hr 28 mins        ███████████████████░░░░░░   77.68 % 
+Windows                  25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,7 +72,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 21/10/2026 15:15:51 UTC
+ Last Updated on 22/10/2026 15:17:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
