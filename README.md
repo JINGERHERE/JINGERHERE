@@ -51,25 +51,42 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 mins             █████████████████████████   98.30 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Python                   2 hrs 31 mins       ████████████████████████░   95.76 % 
+C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Batchfile                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 35 mins       █████████████████████████   98.52 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (0.0%)
+
+✍️ 0 lines written by AI, 136 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 2 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 14:03:31 UTC
+ Last Updated on 25/10/2026 14:24:42 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
