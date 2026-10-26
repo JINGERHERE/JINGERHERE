@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2028%20mins-blue?style=flat)
 
@@ -51,18 +51,18 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 31 mins       ████████████████████████░   95.76 % 
-C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Batchfile                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   6 hrs 19 mins       █████████████████████░░░░   83.25 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+C                        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+CMake                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 35 mins       █████████████████████████   98.52 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Mac                      7 hrs 33 mins       █████████████████████████   99.49 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,7 +70,7 @@ Windows                  2 mins              ░░░░░░░░░░░�
 ```text
 ⏱ AI Coding Time: 0 secs (0.0%)
 
-✍️ 0 lines written by AI, 136 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,765 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -86,7 +86,7 @@ Windows                  2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/10/2026 14:24:42 UTC
+ Last Updated on 26/10/2026 16:50:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
