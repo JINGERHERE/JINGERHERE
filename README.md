@@ -51,18 +51,18 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 5 mins       █████████████████████░░░░   84.71 % 
-JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-C                        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-CMake                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python                   15 hrs              █████████████████████░░░░   84.76 % 
+JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+CMake                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  17 hrs 42 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 2 mins       █████████████████████████   99.70 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Mac                      17 hrs 39 mins      █████████████████████████   99.78 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,7 +70,7 @@ Windows                  2 mins              ░░░░░░░░░░░�
 ```text
 ⏱ AI Coding Time: 0 secs (0.0%)
 
-✍️ 0 lines written by AI, 14,909 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 18,011 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -86,7 +86,7 @@ Windows                  2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 27/10/2026 15:55:53 UTC
+ Last Updated on 28/10/2026 16:39:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
