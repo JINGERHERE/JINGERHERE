@@ -27,21 +27,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-🌆 Daytime                403 commits         ████████░░░░░░░░░░░░░░░░░   30.95 % 
-🌃 Evening                648 commits         ████████████░░░░░░░░░░░░░   49.77 % 
-🌙 Night                  189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌞 Morning                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+🌆 Daytime                403 commits         ████████░░░░░░░░░░░░░░░░░   30.88 % 
+🌃 Evening                649 commits         ████████████░░░░░░░░░░░░░   49.73 % 
+🌙 Night                  191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Tuesday                  135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Wednesday                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Thursday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Friday                   274 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Saturday                 193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Sunday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Monday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Tuesday                  135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Wednesday                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Thursday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Friday                   274 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Saturday                 193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
 
 
@@ -51,42 +51,27 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 hrs 10 mins      █████████████████████░░░░   82.41 % 
-JSON                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Batchfile                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-C                        21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Python                   17 hrs 56 mins      ███████████████████░░░░░░   76.03 % 
+JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Batchfile                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 26 mins      █████████████████████████   99.84 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Mac                      23 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.0%)
-
-✍️ 0 lines written by AI, 24,636 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 2 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/10/2026 15:47:35 UTC
+ Last Updated on 01/11/2026 16:51:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
