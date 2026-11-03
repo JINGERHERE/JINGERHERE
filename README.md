@@ -18,30 +18,26 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2010%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2028%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.68%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-🌆 Daytime                403 commits         ████████░░░░░░░░░░░░░░░░░   30.88 % 
-🌃 Evening                649 commits         ████████████░░░░░░░░░░░░░   49.73 % 
-🌙 Night                  191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+🌞 Morning                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+🌆 Daytime                406 commits         ████████░░░░░░░░░░░░░░░░░   31.02 % 
+🌃 Evening                649 commits         ████████████░░░░░░░░░░░░░   49.58 % 
+🌙 Night                  192 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Wednesday                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Thursday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Friday                   274 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Saturday                 193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Monday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Tuesday                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Wednesday                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Thursday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Friday                   274 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Saturday                 193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 ```
 
 
@@ -51,17 +47,18 @@ Sunday                   167 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs 56 mins      ███████████████████░░░░░░   76.03 % 
-JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Batchfile                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Python                   9 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.98 % 
+Markdown                 7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.32 % 
+YAML                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 8 mins       ███████████████░░░░░░░░░░   61.66 % 
+Windows                  8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,7 +68,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/11/2026 16:51:17 UTC
+ Last Updated on 03/11/2026 13:33:36 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
