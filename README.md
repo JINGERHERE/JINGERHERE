@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2045%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2028%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.68%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -68,7 +72,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/11/2026 13:33:36 UTC
+ Last Updated on 03/11/2026 17:51:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
