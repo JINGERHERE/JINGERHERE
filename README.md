@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2028%20mins-blue?style=flat)
 
@@ -27,21 +27,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-🌆 Daytime                406 commits         ████████░░░░░░░░░░░░░░░░░   31.02 % 
-🌃 Evening                649 commits         ████████████░░░░░░░░░░░░░   49.58 % 
-🌙 Night                  192 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+🌞 Morning                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+🌆 Daytime                406 commits         ████████░░░░░░░░░░░░░░░░░   30.97 % 
+🌃 Evening                650 commits         ████████████░░░░░░░░░░░░░   49.58 % 
+🌙 Night                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Tuesday                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Wednesday                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Thursday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Friday                   274 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Saturday                 193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Monday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Tuesday                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Wednesday                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Thursday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Friday                   274 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Saturday                 193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 ```
 
 
@@ -51,18 +51,18 @@ Sunday                   167 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.98 % 
-Markdown                 7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.32 % 
-YAML                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Markdown                 8 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   39.01 % 
+YAML                     6 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Python                   5 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 8 mins       ███████████████░░░░░░░░░░   61.66 % 
-Windows                  8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
+Windows                  13 hrs 34 mins      ███████████████░░░░░░░░░░   61.44 % 
+Mac                      8 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.56 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,7 +72,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/11/2026 17:51:58 UTC
+ Last Updated on 04/11/2026 18:02:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
