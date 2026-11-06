@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2028%20mins-blue?style=flat)
 
@@ -51,18 +51,19 @@ Sunday                   167 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 21 mins      ████████████░░░░░░░░░░░░░   47.00 % 
-YAML                     6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Python                   2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Markdown                 13 hrs 4 mins       ███████████████░░░░░░░░░░   59.79 % 
+YAML                     8 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.34 % 
+SSH Config               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  21 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 7 mins       ██████████████████░░░░░░░   73.20 % 
-Mac                      5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Windows                  17 hrs 48 mins      ████████████████████░░░░░   81.48 % 
+Linux                    2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Mac                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,7 +73,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/11/2026 18:03:34 UTC
+ Last Updated on 06/11/2026 17:31:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
