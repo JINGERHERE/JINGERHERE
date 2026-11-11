@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2028%20mins-blue?style=flat)
 
@@ -51,19 +51,19 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-YAML                     7 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-C                        6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-C++                      5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-CMake                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Markdown                 7 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+C                        7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+C++                      7 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+YAML                     3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+CMake                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 32 mins      ███████████░░░░░░░░░░░░░░   44.80 % 
-Windows                  12 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   38.30 % 
-Linux                    5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Mac                      16 hrs 48 mins      ██████████████░░░░░░░░░░░   57.35 % 
+Windows                  7 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Linux                    5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -73,7 +73,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/11/2026 17:49:22 UTC
+ Last Updated on 11/11/2026 17:56:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
