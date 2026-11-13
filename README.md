@@ -22,26 +22,26 @@ Here are some ideas to get you started:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.70%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.71%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-🌆 Daytime                395 commits         ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌃 Evening                645 commits         ████████████░░░░░░░░░░░░░   49.39 % 
-🌙 Night                  194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+🌆 Daytime                396 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌃 Evening                645 commits         ████████████░░░░░░░░░░░░░   49.35 % 
+🌙 Night                  194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Monday                   184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 Tuesday                  139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Wednesday                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Thursday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Friday                   272 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Saturday                 209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Sunday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Wednesday                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Thursday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Friday                   273 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Saturday                 209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Sunday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 ```
 
 
@@ -51,19 +51,19 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        7 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-C++                      7 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-Markdown                 6 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-YAML                     2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-CMake                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+C                        7 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.19 % 
+C++                      7 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
+Markdown                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+YAML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+CMake                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 48 mins      ████████████████░░░░░░░░░   62.80 % 
-Linux                    5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Windows                  4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Mac                      16 hrs 48 mins      ███████████████████░░░░░░   74.77 % 
+Linux                    2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Windows                  2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -73,7 +73,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 12/11/2026 18:18:37 UTC
+ Last Updated on 13/11/2026 17:47:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
