@@ -51,28 +51,28 @@ Sunday                   162 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        7 hrs 30 mins       █████████████░░░░░░░░░░░░   52.64 % 
-C++                      4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
-Objective-C              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+C                        6 hrs 55 mins       ██████████████░░░░░░░░░░░   57.83 % 
+C++                      2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Objective-C              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 19 mins      ███████████████████████░░   93.45 % 
-Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Copilot CLI              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+VS Code                  11 hrs 3 mins       ███████████████████████░░   92.21 % 
+Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Copilot CLI              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Mac                      13 hrs 54 mins      ████████████████████████░   97.56 % 
-Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Mac                      11 hrs 38 mins      ████████████████████████░   97.10 % 
+Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (10.08%)
+⏱ AI Coding Time: 1 hr 26 mins (11.98%)
 
-✍️ 0 lines written by AI, 3,051 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,795 lines written by hand (0.0% AI-written)
 
 🔤 3,263,034 Input Tokens, 1,529,428 Output Tokens
 
@@ -92,7 +92,7 @@ Copilot                  0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/11/2026 19:12:47 UTC
+ Last Updated on 18/11/2026 18:53:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
