@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2054%20mins-blue?style=flat)
 
@@ -51,26 +51,26 @@ Sunday                   162 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        6 hrs 55 mins       ██████████████░░░░░░░░░░░   57.83 % 
-C++                      2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Objective-C              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+C                        6 hrs 57 mins       ██████████████░░░░░░░░░░░   57.92 % 
+C++                      2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Objective-C              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 3 mins       ███████████████████████░░   92.21 % 
-Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+VS Code                  11 hrs 4 mins       ███████████████████████░░   92.22 % 
+Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 Copilot CLI              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Mac                      11 hrs 38 mins      ████████████████████████░   97.10 % 
+Mac                      11 hrs 39 mins      ████████████████████████░   97.10 % 
 Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (11.98%)
+⏱ AI Coding Time: 1 hr 26 mins (11.96%)
 
 ✍️ 0 lines written by AI, 2,795 lines written by hand (0.0% AI-written)
 
@@ -92,7 +92,7 @@ Copilot                  0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/11/2026 18:53:58 UTC
+ Last Updated on 19/11/2026 19:01:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
