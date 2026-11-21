@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2054%20mins-blue?style=flat)
 
@@ -51,48 +51,43 @@ Sunday                   162 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        6 hrs 57 mins       ██████████████░░░░░░░░░░░   57.20 % 
-C++                      2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Objective-C              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+C                        8 hrs 7 mins        █████████████████░░░░░░░░   66.84 % 
+C++                      2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Objective-C              46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+CMake                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Singularity              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 13 mins      ███████████████████████░░   92.32 % 
+VS Code                  11 hrs 31 mins      ████████████████████████░   94.80 % 
 Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Copilot CLI              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 💻 Operating System: 
-Mac                      11 hrs 39 mins      ████████████████████████░   95.92 % 
-Linux                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Mac                      12 hrs              █████████████████████████   98.77 % 
+Linux                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (11.81%)
+⏱ AI Coding Time: 50 mins (6.97%)
 
-✍️ 0 lines written by AI, 2,795 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,811 lines written by hand (0.0% AI-written)
 
-🔤 3,263,034 Input Tokens, 1,529,428 Output Tokens
+🔤 769,273 Input Tokens, 227,740 Output Tokens
 
-💵 $23.89 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
-
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Copilot                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 1 AI Sessions, 4 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,870 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 4,798 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/11/2026 18:38:04 UTC
+ Last Updated on 21/11/2026 17:29:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
