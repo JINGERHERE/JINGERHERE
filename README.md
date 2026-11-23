@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2054%20mins-blue?style=flat)
 
@@ -51,18 +51,18 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        4 hrs 2 mins        ████████████████████░░░░░   78.71 % 
-C++                      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-CMake                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Singularity              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+C                        3 hrs 39 mins       ██████████████████████░░░   89.56 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+CMake                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Objective-C              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 58 mins       ████████████████████████░   97.10 % 
-Linux                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Mac                      3 hrs 55 mins       ████████████████████████░   96.35 % 
+Linux                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,7 +72,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/11/2026 17:51:06 UTC
+ Last Updated on 23/11/2026 22:06:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
