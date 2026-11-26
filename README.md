@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2054%20mins-blue?style=flat)
 
@@ -51,18 +51,17 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        4 hrs 26 mins       ███████████████████████░░   91.24 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Objective-C              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+C                        5 hrs 30 mins       ████████████████████████░   95.19 % 
+C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+CMake                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Objective-C              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Singularity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 42 mins       ████████████████████████░   96.93 % 
-Linux                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,7 +71,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/11/2026 19:59:23 UTC
+ Last Updated on 26/11/2026 19:39:52 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
