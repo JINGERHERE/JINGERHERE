@@ -18,60 +18,14 @@ Here are some ideas to get you started:
 <img src="./assets/classic/metrics.classic.svg" width="99%" align="top"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.71%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-🌆 Daytime                402 commits         ████████░░░░░░░░░░░░░░░░░   30.52 % 
-🌃 Evening                648 commits         ████████████░░░░░░░░░░░░░   49.20 % 
-🌙 Night                  195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Wednesday                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Thursday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Friday                   274 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Saturday                 212 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Sunday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C                        5 hrs 30 mins       ████████████████████████░   95.19 % 
-C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-CMake                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Objective-C              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Singularity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 26/11/2026 19:39:52 UTC
+ Last Updated on 27/11/2026 19:30:36 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics: Most used languages -->
